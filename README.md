@@ -4,5 +4,5 @@
 	<li>https://axios-http.com Axios</li>
 	<li>https://redux-toolkit.js.org Redux</li>
 	<li>https://create-react-app.dev React</li>
-	<li>https://jsonplaceholder.typicode.com Jsonplaceholder 12</li>
+	<li>https://jsonplaceholder.typicode.com Jsonplaceholder 123</li>
 </ul>
